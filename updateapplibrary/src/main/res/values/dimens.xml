@@ -1,0 +1,3 @@
+<resources>
+    <item type="dimen" name="dialog_max_height">70%</item>
+</resources>
