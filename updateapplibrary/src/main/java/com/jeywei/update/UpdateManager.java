@@ -66,106 +66,100 @@ public class UpdateManager {
             mUpdateManager = new UpdateManager(context);
         }
 
-        /**
-         * @param apkUrl 设置apk下载路径
+        /** 
+         * description: 设置apk下载路径
+         * author: Allen
+         * date: 2018/11/22 15:52 
          */
         public Builder setApkUrl(String apkUrl) {
             mUpdateManager.apkUrl = apkUrl;
             return this;
         }
 
-        /**
-         * 设置apk下载路径，不设置就使用默认路径
-         *
-         * @param apkPath
-         * @return
+        /** 
+         * description: 设置apk下载路径，不设置就使用默认路径
+         * author: Allen
+         * date: 2018/11/22 15:52 
          */
         public Builder setApkPath(String apkPath) {
             mUpdateManager.apkPath = apkPath;
             return this;
         }
 
-        /**
-         * 设置apk名称，不设置默认截取最后一个/之后的名称
-         *
-         * @param apkName
-         * @return
+        /** 
+         * description: 设置apk名称，不设置默认截取最后一个/之后的名称
+         * author: Allen
+         * date: 2018/11/22 15:52 
          */
         public Builder setApkName(String apkName) {
             mUpdateManager.apkName = apkName;
             return this;
         }
 
-        /**
-         * 设置更新日志
-         *
-         * @param updateLog
-         * @return
+        /** 
+         * description: 设置更新日志
+         * author: Allen
+         * date: 2018/11/22 15:52 
          */
         public Builder setUpdateLog(String updateLog) {
             mUpdateManager.updateLog = updateLog;
             return this;
         }
 
-        /**
-         * 设置标题
-         *
-         * @param title
-         * @return
+        /** 
+         * description: 设置标题
+         * author: Allen
+         * date: 2018/11/22 15:52 
          */
         public Builder setTitle(String title) {
             mUpdateManager.title = title;
             return this;
         }
 
-        /**
-         * 副标题设置
-         *
-         * @param subTitle
-         * @return
+        /** 
+         * description: 副标题设置
+         * author: Allen
+         * date: 2018/11/22 15:52 
          */
         public Builder setSubTitle(String subTitle) {
             mUpdateManager.subTitle = subTitle;
             return this;
         }
 
-        /**
-         * 是否强制更新，isForce默认是false
-         *
-         * @param isForce
-         * @return
+        /** 
+         * description: 是否强制更新，isForce默认是false
+         * author: Allen
+         * date: 2018/11/22 15:52 
          */
         public Builder setForceUpdate(boolean isForce) {
             mUpdateManager.isForce = isForce;
             return this;
         }
 
-        /**
-         * 点击确定按钮之后，是否显示进度条，默认是显示的
-         *
-         * @param isProgress
-         * @return
+        /** 
+         * description: 点击确定按钮之后，是否显示进度条，默认是显示的
+         * author: Allen
+         * date: 2018/11/22 15:51 
          */
         public Builder setShowProgress(boolean isProgress) {
             mUpdateManager.isProgress = isProgress;
             return this;
         }
 
-        /**
-         * 是否显示通知
-         *
-         * @param isNotification
-         * @return
+        /** 
+         * description: 是否显示通知
+         * author: Allen
+         * date: 2018/11/22 15:53 
          */
         public Builder setShowNotification(boolean isNotification) {
             mUpdateManager.isNotification = isNotification;
             return this;
         }
 
-        /**
-         * 设置通知图标
-         * @param notifyIcon
-         * @return
+        /** 
+         * description: 设置通知图标
+         * author: Allen
+         * date: 2018/11/22 15:53 
          */
         public Builder setNotificationIcon(int notifyIcon) {
             mUpdateManager.notifyIcon = notifyIcon;
