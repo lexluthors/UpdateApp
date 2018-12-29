@@ -3,8 +3,8 @@
 
 使用OKhttp更新。
 效果图：
-![](https://github.com/lexluthors/UpdateApp/blob/master/updateapplibrary/src/main/res/drawable/Screenshot_20181227-000926.jpg)
+![](https://github.com/lexluthors/UpdateApp/blob/master/app/pic/1.png)
+![](https://github.com/lexluthors/UpdateApp/blob/master/app/pic/2.png)
+![](https://github.com/lexluthors/UpdateApp/blob/master/app/pic/3.png)
+![](https://github.com/lexluthors/UpdateApp/blob/master/app/pic/4.png)
 
-![](https://github.com/lexluthors/UpdateApp/blob/master/updateapplibrary/src/main/res/drawable/Screenshot_20181227-001007.jpg)
-
-![](https://github.com/lexluthors/UpdateApp/blob/master/updateapplibrary/src/main/res/drawable/Screenshot_20181227-001015.jpg)
