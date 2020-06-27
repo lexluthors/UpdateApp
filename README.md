@@ -9,3 +9,4 @@
 ![](https://github.com/lexluthors/UpdateApp/blob/master/app/pic/3.png)
 ![](https://github.com/lexluthors/UpdateApp/blob/master/app/pic/4.png)
 
+<img src="https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/input.png" width="250px" />
